@@ -1,5 +1,5 @@
 # Term Project for Advanced Java
-This is my term project which consits of simple videogame created in Java fx.
+This is my term project which consits of a simple phone database created in Java fx.
 
 ## Motivation for this project
 
@@ -34,10 +34,7 @@ These are some visualizations of the phonebook database. They are stored in cont
            <summary>Main Menu</summary>
            <p>
 
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Game1.png?raw=true)
-
-
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Game2.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Phonebook_java/blob/master/Assets/Main_menu.png?raw=true)
 
 </p>
 </details>
@@ -46,7 +43,7 @@ These are some visualizations of the phonebook database. They are stored in cont
            <p>
                       
 
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Menu.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Phonebook_java/blob/master/Assets/Look_up.png?raw=true)
   </p>
          </details>
 <details>
@@ -54,7 +51,7 @@ These are some visualizations of the phonebook database. They are stored in cont
            <p>
 
              
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Credits.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Phonebook_java/blob/master/Assets/Delete_row.png?raw=true)
  
  </details>
  
@@ -63,7 +60,7 @@ These are some visualizations of the phonebook database. They are stored in cont
            <p>
 
              
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Credits.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Phonebook_java/blob/master/Assets/Results.png?raw=true)
  
  </details>
  
@@ -72,7 +69,7 @@ These are some visualizations of the phonebook database. They are stored in cont
            <p>
 
              
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Credits.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Phonebook_java/blob/master/Assets/Add_contact.png?raw=true)
  
  </details>
  <details>
@@ -80,7 +77,7 @@ These are some visualizations of the phonebook database. They are stored in cont
            <p>
 
              
-![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Credits.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Phonebook_java/blob/master/Assets/Change_phone.png?raw=true)
  
  </details>
  
@@ -91,8 +88,13 @@ These are some visualizations of the phonebook database. They are stored in cont
 ## Authors
 
 
-* **Sebastian Calzadilla** 
+* **Sebastian Calzadilla** - *The one and only*
 
 ## Acknowledgments
 
-* **Dr. Mondesire, S.** 
+* **Dr. Mondesire, S.** - *Spiritual Guide*
+* **StackOverflow** - *Couldn't have done it without them*
+* **Google** - *Knows everything*
+* **God** - *Was always there*
+* **My dog** - *Emotional support*
+
